@@ -65,3 +65,25 @@ Manages chat interactions, including storing and retrieving chat messages and ha
   - `mongoose`: MongoDB object modeling.
   - `jsonwebtoken`: Token management.
 
+## Frontend
+
+The frontend is built with React and handles user interactions with the platform.
+
+- **Components**:
+  - **Auth Forms**: Login, registration, and password recovery forms.
+  - **Dashboard**: Main interface for interacting with the AI and viewing chat history.
+  - **Splash Screen**: Initial loading screen with animated logo.
+
+- **Dependencies**:
+  - `react`: UI library.
+  - `react-router-dom`: Routing.
+  - `axios`: HTTP requests.
+
+## Installation
+
+To get started with the project, follow these steps:
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/your-username/writers-muse-frontend.git
